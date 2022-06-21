@@ -5,8 +5,8 @@
 - 🟠 Em busca de um estágio para aprender mais e dominar métodos de trabalho.
 <div>
   <a href="https://beacons.ai/lucasnobree">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=lucasnobree&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnobree&layout=compact&langs_count=16&theme=codeSTACKr" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=lucasnobree&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnobree&layout=compact&langs_count=16&theme=codeSTACKr" />
 </div>
   
 ##
