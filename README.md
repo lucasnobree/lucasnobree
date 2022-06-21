@@ -1,16 +1,11 @@
-### Hi there 👋
+### Olá, eu sou Lucas Nobre!
 
-<!--
-**lucasnobree/lucasnobree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📙 Cursando 2º período de Ciência da Computação;
+- 🍂 Procuro cursos gratuitos na área de linguagens de programação;
+- 🟠 Em busca de um estágio para dominar métodos de trabalho.
+<div>
+  <a href="https://beacons.ai/lucasnobree">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasnobree&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnobree&layout=compact&langs_count=16&theme=codeSTACKr" />
+</div>
+  
