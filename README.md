@@ -1,4 +1,4 @@
-### Olá, eu sou Lucas Nobre!
+### - Olá, eu sou Lucas Nobre!
 ##
 - 📙 Cursando 2º período de Ciência da Computação;
 - 🍂 Procuro cursos gratuitos na área de linguagens de programação;
@@ -10,7 +10,7 @@
 </div>
   
 ##
-  - Linguagens que desejo aprender e priorizar no futuro:
+###  - 🪐Linguagens que desejo aprender e priorizar no futuro:
 ##  
 
   <div style="display: inline_block"><br>  
