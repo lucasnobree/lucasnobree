@@ -14,8 +14,9 @@
 ##  
 
   <div style="display: inline_block"><br>  
-            <img align="center" alt="Nobre-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+            <img align="center" alt="Nobre-Njs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
             <img align="center" alt="Nobre-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-            <img align="center" alt="Nobre-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-            <img align="center" alt="Nobre-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+            <img align="center" alt="Nobre-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+            <img align="center" alt="Nobre-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+            <img align="right" alt="Nobre-gif" src="https://cdn.discordapp.com/attachments/402832761142116352/988871002371014686/standard_1.gif">
              
