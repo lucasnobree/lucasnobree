@@ -1,6 +1,6 @@
 ### - Olá, eu sou Lucas Nobre!
 ##
-- 📙 Cursando 2º período de Ciência da Computação;
+- 📙 Cursando 3º período de Ciência da Computação;
 - 🍂 Procuro cursos na área de linguagens de programação;
 - 🟠 Em busca de um estágio para aprender mais e dominar métodos de trabalho.
 
