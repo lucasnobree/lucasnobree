@@ -20,6 +20,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lucasnobree/lucasnobree/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lucasnobree/lucasnobree/snake.svg" alt="Snake animation" />
 
 ###
