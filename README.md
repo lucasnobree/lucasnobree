@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="50" src="https://ibb.co/0yjKGWfC""  />
+  <img height="50" src="https://i.ibb.co/N26rykL9/capa-github.jpg"  />
 </div>
 
 ###
@@ -15,9 +15,3 @@
   <img width="012" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-###
