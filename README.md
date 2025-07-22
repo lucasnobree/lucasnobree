@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="50" src="https://homologdev.globalthings.net/img/nova_identidade_05062025/logo_effort.png](https://media.licdn.com/dms/image/v2/D4D16AQFmbI2JxUcCRA/profile-displaybackgroundimage-shrink_350_1400/B4DZgyVW4WHwAY-/0/1753191117056?e=1756339200&v=beta&t=jbrY93bCnjg3bGF6eh4J9rl5kKiq_VmvzWQmmJNfrOk"  />
+  <img height="50" src="https://ibb.co/0yjKGWfC"  />
 </div>
 
 ###
