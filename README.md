@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="50" src="https://i.ibb.co/N26rykL9/capa-github.jpg"  />
+  <img width= "1584" height="396" src="https://i.ibb.co/N26rykL9/capa-github.jpg"  />
 </div>
 
 ###
